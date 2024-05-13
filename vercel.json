@@ -8,7 +8,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "about:blank"
+      "destination": "https://github-readme-stats-three-zeta-89.vercel.app/api?user=fjsafdssdgsdgvbdssdbg"
     }
   ]
 }
