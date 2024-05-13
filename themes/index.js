@@ -7,7 +7,7 @@ export const themes = {
     border_color: "e4e2e2",
   },
   ayu: {
-    title_color: "75c93f",
+    title_color: "6ba1a4",
     icon_color: "6ba1a4",
     text_color: "75c93f",
     bg_color: "0b0e14",
