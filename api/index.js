@@ -68,7 +68,7 @@ export default async (req, res) => {
   try {
     const showStats = parseArray(show);
     const stats = await fetchStats(
-      username,
+      "wtfterm",
       parseBoolean(include_all_commits),
       parseArray(exclude_repo),
       showStats.includes("prs_merged") ||
