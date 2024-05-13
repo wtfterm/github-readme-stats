@@ -64,7 +64,7 @@ const renderGistCard = (gistData, options = {}) => {
       text_color,
       bg_color,
       border_color,
-      theme,
+      "ayu",
     });
 
   const lineWidth = 59;
