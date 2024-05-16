@@ -251,7 +251,7 @@ const renderStatsCard = (stats, options = {}) => {
       bg_color,
       border_color,
       ring_color,
-      theme = "ayu",
+      theme,
     });
 
   const apostrophe = ["x", "s"].includes(name.slice(-1).toLocaleLowerCase())
