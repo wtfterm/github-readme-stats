@@ -216,7 +216,7 @@ const renderStatsCard = (stats, options = {}) => {
   } = stats;
   const {
     hide = [],
-    show_icons = false,
+    show_icons = true,
     hide_title = false,
     hide_border = false,
     card_width,
